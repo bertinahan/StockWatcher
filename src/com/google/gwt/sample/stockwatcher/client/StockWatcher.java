@@ -1,4 +1,4 @@
-// I love this game! I don't like it.
+// I love this game! I like it.
 // Blah blah
 package com.google.gwt.sample.stockwatcher.client;
 
