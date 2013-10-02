@@ -1,5 +1,5 @@
 // I love this game!
-
+// Blah blah
 package com.google.gwt.sample.stockwatcher.client;
 
 import java.util.ArrayList;
